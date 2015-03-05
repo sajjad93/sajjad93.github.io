@@ -8,9 +8,7 @@ title: You're up and running!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-<p align=left>
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository] on GitHub.
-</p>
-
-[Jekyll Now repository]: https://github.com/barryclark/jekyll-now
+این یک فیلم است:
+<video width="320" height="240" controls>
+  <source src="https://github.com/sajjad93/sajjad93.github.io/blob/master/movies/spongebob.mp4" type="video/mp4">
+</video>
