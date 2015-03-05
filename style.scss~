@@ -18,8 +18,6 @@ html {
 }
 
 body {
-text-direction: rtl;
-text-align: right;
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
